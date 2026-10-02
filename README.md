@@ -9,7 +9,7 @@ This repository is a permanent, read-only archive of released versions of `ahras
 - **Latest Archived Version:** `v1.0.0-rc.1.1.8`
 - **Flarum Compatibility:** `^1.0`
 - **Direct Download (.zip):** [Download v1.0.0-rc.1.1.8 (.zip)](https://github.com/flarchive/ahrasis-bahasa-melayu/archive/refs/tags/archive/v1.0.0-rc.1.1.8.zip)
-- **All Releases & Tags:** [Daha Fazlasını Gör / View All Tags](https://github.com/flarchive/ahrasis-bahasa-melayu/tags)
+- **All Releases & Tags:** [View All Releases & Tags](https://github.com/flarchive/ahrasis-bahasa-melayu/tags)
 
 ## Archive Catalog
 
