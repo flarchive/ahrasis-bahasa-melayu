@@ -1,27 +1,36 @@
-# ahrasis/bahasa-melayu (Archive)
+# ahrasis-bahasa-melayu (Archive)
 
-> **Read-only archive of released versions of ahrasis/bahasa-melayu.** Not for installation: use [Packagist](https://packagist.org/packages/ahrasis/bahasa-melayu) or the [upstream repository](https://github.com/ahrasis/bahasa-melayu).
+> **Read-only archive of released versions for ahrasis/bahasa-melayu, ahrasis/flarum-ext-malaysian.** Not for installation: use Packagist or the [upstream repository](https://github.com/ahrasis/bahasa-melayu).
 
-**18** versions archived · Latest: [`v1.0.0-rc.1.1.8`](https://github.com/flarchive/ahrasis-bahasa-melayu/tree/archive/v1.0.0-rc.1.1.8) · License: `MIT` · Flarum: `^1.0`
+**18** versions archived · Latest: [`v0.1.0-beta.8.1.2`](https://github.com/flarchive/ahrasis-bahasa-melayu/tree/archive/v0.1.0-beta.8.1.2) · License: `MIT` · Flarum: `^0.1.0-beta.8`
+
+## Linked Packages
+
+This canonical archive repository hosts releases for the following Packagist packages:
+- [`ahrasis/bahasa-melayu`](https://packagist.org/packages/ahrasis/bahasa-melayu)
+- [`ahrasis/flarum-ext-malaysian`](https://packagist.org/packages/ahrasis/flarum-ext-malaysian)
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| `v1.0.0-rc.1.1.8` | 2021-07-20 | `^1.0` | [Browse](https://github.com/flarchive/ahrasis-bahasa-melayu/tree/archive/v1.0.0-rc.1.1.8) |
-| `v1.0.0-rc.1.1.7` | 2021-07-20 | `^1.0` | [Browse](https://github.com/flarchive/ahrasis-bahasa-melayu/tree/archive/v1.0.0-rc.1.1.7) |
-| `v1.0.0-rc.1.1.6` | 2021-07-20 | `^1.0` | [Browse](https://github.com/flarchive/ahrasis-bahasa-melayu/tree/archive/v1.0.0-rc.1.1.6) |
-| `v1.0.0-rc.1.1.5` | 2021-07-20 | `^1.0` | [Browse](https://github.com/flarchive/ahrasis-bahasa-melayu/tree/archive/v1.0.0-rc.1.1.5) |
-| `v1.0.0-rc.1.1.4` | 2021-07-20 | `^1.0` | [Browse](https://github.com/flarchive/ahrasis-bahasa-melayu/tree/archive/v1.0.0-rc.1.1.4) |
-| `v1.0.0-rc.1.1.3` | 2021-07-19 | `^1.0` | [Browse](https://github.com/flarchive/ahrasis-bahasa-melayu/tree/archive/v1.0.0-rc.1.1.3) |
-| `v1.0.0-rc.1.1.2` | 2021-07-19 | `^1.0` | [Browse](https://github.com/flarchive/ahrasis-bahasa-melayu/tree/archive/v1.0.0-rc.1.1.2) |
-| `v1.0.0-rc.1.1.1` | 2021-07-15 | `^1.0` | [Browse](https://github.com/flarchive/ahrasis-bahasa-melayu/tree/archive/v1.0.0-rc.1.1.1) |
-| `v1.0.0-rc.1.1.0` | 2021-07-15 | `^1.0` | [Browse](https://github.com/flarchive/ahrasis-bahasa-melayu/tree/archive/v1.0.0-rc.1.1.0) |
+| `v0.1.0-beta.8.1.2` | 2019-01-14 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/ahrasis-bahasa-melayu/tree/archive/v0.1.0-beta.8.1.2) |
+| `v1.0.0-rc.1.0.2` | 2021-07-15 | `^1.0` | [Browse](https://github.com/flarchive/ahrasis-bahasa-melayu/tree/archive/v1.0.0-rc.1.0.2) |
+| `v1.0.0-rc.1.0.3` | 2021-07-15 | `^1.0` | [Browse](https://github.com/flarchive/ahrasis-bahasa-melayu/tree/archive/v1.0.0-rc.1.0.3) |
+| `v1.0.0-rc.1.0.4` | 2021-07-15 | `^1.0` | [Browse](https://github.com/flarchive/ahrasis-bahasa-melayu/tree/archive/v1.0.0-rc.1.0.4) |
+| `v1.0.0-rc.1.0.5` | 2021-07-15 | `^1.0` | [Browse](https://github.com/flarchive/ahrasis-bahasa-melayu/tree/archive/v1.0.0-rc.1.0.5) |
+| `v1.0.0-rc.1.0.6` | 2021-07-15 | `^1.0` | [Browse](https://github.com/flarchive/ahrasis-bahasa-melayu/tree/archive/v1.0.0-rc.1.0.6) |
+| `v1.0.0-rc.1.0.7` | 2021-07-15 | `^1.0` | [Browse](https://github.com/flarchive/ahrasis-bahasa-melayu/tree/archive/v1.0.0-rc.1.0.7) |
+| `v1.0.0-rc.1.0.8` | 2021-07-15 | `^1.0` | [Browse](https://github.com/flarchive/ahrasis-bahasa-melayu/tree/archive/v1.0.0-rc.1.0.8) |
 | `v1.0.0-rc.1.0.9` | 2021-07-15 | `^1.0` | [Browse](https://github.com/flarchive/ahrasis-bahasa-melayu/tree/archive/v1.0.0-rc.1.0.9) |
+| `v1.0.0-rc.1.1.0` | 2021-07-15 | `^1.0` | [Browse](https://github.com/flarchive/ahrasis-bahasa-melayu/tree/archive/v1.0.0-rc.1.1.0) |
 
 [View all 18 versions](https://github.com/flarchive/ahrasis-bahasa-melayu/tags)
 
-Catalog entry: [packages/ahrasis-bahasa-melayu.json](https://github.com/flarchive/archive-index/blob/main/packages/ahrasis-bahasa-melayu.json)
+## Catalog entries
+
+- [`ahrasis/bahasa-melayu`](https://github.com/flarchive/archive-index/blob/main/packages/ahrasis-bahasa-melayu.json)
+- [`ahrasis/flarum-ext-malaysian`](https://github.com/flarchive/archive-index/blob/main/packages/ahrasis-flarum-ext-malaysian.json)
 
 ## About this archive
 
